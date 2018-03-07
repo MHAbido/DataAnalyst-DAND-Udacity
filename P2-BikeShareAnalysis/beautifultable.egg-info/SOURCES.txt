@@ -1,0 +1,14 @@
+README.rst
+setup.cfg
+setup.py
+beautifultable/__init__.py
+beautifultable/base.py
+beautifultable/beautifultable.py
+beautifultable/enums.py
+beautifultable/meta.py
+beautifultable/rows.py
+beautifultable/utils.py
+beautifultable.egg-info/PKG-INFO
+beautifultable.egg-info/SOURCES.txt
+beautifultable.egg-info/dependency_links.txt
+beautifultable.egg-info/top_level.txt
